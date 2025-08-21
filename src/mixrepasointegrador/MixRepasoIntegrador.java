@@ -54,7 +54,7 @@ public class MixRepasoIntegrador {
         
         
         } catch(ArrayIndexOutOfBoundsException e){
-            System.out.println("exede el limite del arreglo");            
+            System.out.println("Error: Exede el limite del arreglo");            
         }finally{
             System.out.println("los ornitohermanos juntos al fin…");
         }
