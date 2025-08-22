@@ -59,7 +59,7 @@ public class MixRepasoIntegrador {
             System.out.println("los ornitohermanos juntos al fin…");
         }
         
-        System.out.println("Perri, el ortito rico");
+       
      
 }
       private static final  Comparator<OrnitorrincoAzul> comparaNado = new Comparator<OrnitorrincoAzul>(){

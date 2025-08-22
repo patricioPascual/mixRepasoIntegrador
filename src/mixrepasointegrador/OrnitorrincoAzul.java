@@ -44,7 +44,7 @@ public class OrnitorrincoAzul extends Castor implements Pato {
             System.out.println("Nadando a " + super.getVelocidad() + " KM/h");
         } else {
             System.out.println("Se agotaron los " + MAX_INTENTOS + " intentos. No se cambió la velocidad.");
-            // Si queremos podemos añadir otra excepcion, pero no hace falta
+            
         }
 
         
