@@ -14,6 +14,8 @@ import java.util.Iterator;
  */
 public class MixRepasoIntegrador {
 
+    //Para LAU, implementar un sou con validación de entrada para que el usuario cuando ingrese los 3 intentos creado en la clase OrnitorrincoAzul, no le muestre datos ya que ingreso mal los intentos.
+
     /**
      * @param args the command line arguments
      */
@@ -24,7 +26,7 @@ public class MixRepasoIntegrador {
         OrnitorrincoVerde patricio= new OrnitorrincoVerde();
         
         blue.nadar();
-        blue.tocarGuitarra();
+        blue.tocarGuitarra(); 
         blui.nadar();
         blui.tocarGuitarra();
         
