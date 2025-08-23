@@ -66,7 +66,7 @@ public class OrnitorrincoAzul extends Castor implements Pato {
     }
 
     public void tocarOrgano() {
-        // implementación
+        // No hacer nada
     }
 }
 
